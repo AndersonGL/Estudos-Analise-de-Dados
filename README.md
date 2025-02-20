@@ -1,5 +1,5 @@
 # Projetos-Analise-de-Dados
- Criando projetos com python e analisando dados 
+ Criando projetos com python e analisando dados. 
 
  
 # Oi👋, eu sou a Anderson! 
