@@ -1,9 +1,37 @@
-# Projetos-Analise-de-Dados
- Criando projetos com python e analisando dados. 
 
+# Estudos de Análise de Dados 
  
-# Oi👋, eu sou a Anderson! 
+ 
 
+Uma breve descrição sobre meus estudos e projetos: 
+
+
+* **Linguaguem Python (Atualizado  Janeiro 2025)**
+* **Pandas - Biblioteca Python**
+* **Numpy - Biblioteca Python**
+* **Matplotlib - Visualização Gráfica de dados**
+* **SQL - Banco de Dados**
+* **Estátisticas Descritiva, Diagnóstica, Preditiva, Prescritiva**
+* **Excel**
+* **Power BI**
+
+
+### **PROJETOS**:
+
+* **Mapas Geográficos de Calor**
+* **Análise de Empresas Unicórnios**
+* **Mercado Financeiro**
+* **Análise de Recursos Humanos**       
+* **Construção de um Report**
+* **Análise de um Report**
+* **Análise de Mercado Finaceiro**
+* **Análise em Encêndios Florestais**
+
+
+
+
+
+# Olá, eu sou a Anderson! 👋
 
 
 ## 🚀 About me
@@ -19,14 +47,12 @@
 
 
 ## 🛠 Hard Skills
-
-**Data analicts Python, Django, Pandas, Pyautogui, Numpay, Msql, Excel e Power Bi.**
-
+**Pynthon, Django, Flash, Pandas , Matplotlib, Numpay Excel, PowerBi, Estatística e MSQL**.
 
 ## 🤝 Soft Skills
 
 * **Comunicação**
-* **Liderança**
 * **Proatividade**
 * **Trabalho em equipe**
 * **Resiliência.**
+******************************************************************************************************************************************************
