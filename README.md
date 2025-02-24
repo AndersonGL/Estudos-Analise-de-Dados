@@ -17,21 +17,6 @@ Uma breve descrição sobre meus estudos e projetos:
 * **Power BI**
 
 
-### **PROJETOS**:
-
-* **Mapas Geográficos de Calor**
-* **Análise de Empresas Unicórnios**
-* **Mercado Financeiro**
-* **Análise de Recursos Humanos**       
-* **Construção de um Report**
-* **Análise de um Report**
-* **Análise de Mercado Finaceiro**
-* **Análise em Encêndios Florestais**
-
-
-
-
-
 # Olá, eu sou a Anderson! 👋
 
 
