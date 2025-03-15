@@ -23,6 +23,7 @@ Uma breve descrição sobre meus estudos e projetos:
 ## 🚀 About me
 
 **Graduado em Análise e Desenvolvimento de Sistemas.**
+
 **Especializando em Análise de Dados.**
 
 
