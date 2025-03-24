@@ -17,10 +17,10 @@ Uma breve descrição sobre meus estudos e projetos:
 * **Power BI**
 
 
-# Hello, My name is Anderson! 👋
+# Olá , Me chamo Anderson! 👋
 
 
-## 🚀 About me
+## 🚀 Sobre
 
 **Graduado em Análise e Desenvolvimento de Sistemas.**
 
