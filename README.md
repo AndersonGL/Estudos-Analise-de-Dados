@@ -38,3 +38,26 @@
 
 Cada diretório representa um módulo temático ou projeto prático:
 
+---
+
+## 🎯 Objetivo do Repositório
+
+Compartilhar, aplicar e aprimorar meus conhecimentos em **Data Analysis**, através da resolução de problemas reais com foco em:
+
+- 💡 Tomada de decisão baseada em dados.
+- 📌 Visualizações impactantes.
+- 🧩 Raciocínio analítico e exploratório.
+- 🧱 Construção de portfólio técnico profissional.
+
+---
+
+## 📬 Contato
+
+Se você quiser trocar ideias ou discutir algum projeto, entre em contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
+[![E-mail](https://img.shields.io/badge/E--mail-contato-red?style=flat&logo=gmail)](mailto:seu.email@exemplo.com)
+
+---
+
+📌 *Atualizado em Junho de 2025 — Sempre em evolução 🚀*
